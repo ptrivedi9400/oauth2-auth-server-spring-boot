@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/ptrivedi9400/spring-boot-oauth2.png)](http://travis-ci.org/ptrivedi9400/spring-boot-oauth2)
+[![Build Status](https://travis-ci.org/ptrivedi9400/oauth2-auth-server-spring-boot.svg?branch=master)](https://travis-ci.org/ptrivedi9400/oauth2-auth-server-spring-boot)
 
 # Build and Run
 ```java
